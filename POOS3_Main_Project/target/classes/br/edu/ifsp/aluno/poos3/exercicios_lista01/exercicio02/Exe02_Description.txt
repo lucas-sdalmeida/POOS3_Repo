@@ -6,8 +6,8 @@ se o triângulo é:
     * Escaleno (todos os lados diferentes)
     * Isósceles (possui dois lados iguais)
     * Equilátero (todos os lados iguais)
+    * Não forma triângulo (a soma de dois lados deve ser maior que o terceiro lado).
 
-Não forma triângulo (a soma de dois lados deve ser maior que o terceiro lado).
 Os três números devem ser inteiros positivos e lidos na mesma linha (Ex: 3 4 5).
 Exemplos de entrada e saída esperada:
 
