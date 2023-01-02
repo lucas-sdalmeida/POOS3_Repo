@@ -10,7 +10,7 @@ robô possui um GPS sem erro, é possível obter sua posição exata (x1, y1) em
 plano cartesiano. Utilize coordenadas polares para calcular a posição de um pon-
 to de colisão no ambiente a partir das coordenadas "x1" e "y1" da posição do ro-
 bô, do ângulo "a" de orientação do robô no plano (em graus), de um número "f"
-indicando feixe escolhido e da distância "d" medida pelo feixe d >=0). Por ques-
+indicando feixe escolhido e da distância "d" medida pelo feixe (d >=0). Por ques-
 tão de simplificação, utilize valores inteiros para as coordenadas do robô e do
 obstáculo (saída esperada), bem como para o ângulo do robô e a distância medida
 pelo feixe. O valor da saída esperada deverá ser arredondado para inteiro, não
