@@ -1,3 +1,27 @@
+/*
+Descrição do Exercício
+
+Professor: Lucas Bueno Ruas de Oliveira
+
+Leia um conjunto de cinco números inteiros não repetidos em uma única linha e os
+armazene em um vetor de 10 posições. A partir daí, leia um número por vez. Se o
+número ainda não estiver no conjunto, faça a inclusão após o último número. Caso
+ele esteja no conjunto, remova o número e libere espaço no array. A cada itera-
+ção imprima o vetor. O programa acaba quando o array ficar totalmente cheio ou
+vazio.
+
+            Entrada      Array
+      30 2 39 45 89      30 2 39 45 89
+                 44      30 2 39 45 89 44
+                 31      30 2 39 45 89 44 31
+                  2      30 39 45 89 44 31
+                 45      30 39 89 44 31
+                 81      30 39 89 44 31 81
+
+Qualquer valor fora do domínio de entrada tem como saída esperada a String
+"Erro".
+*/
+
 package br.edu.ifsp.aluno.poos3.exercicios_lista02.exercicio03;
 
 import java.util.Scanner;
